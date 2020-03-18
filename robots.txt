@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://reixahjoij.leviblog.top/sitemap.xml
